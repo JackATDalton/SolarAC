@@ -7,3 +7,7 @@ venv/
 figures/
 *.png
 *.svg
+.DS_Store
+.Rhistory
+.RData
+*.FCBak
